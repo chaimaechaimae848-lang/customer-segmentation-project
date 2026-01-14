@@ -43,7 +43,6 @@ Ce projet utilise les technologies suivantes :
 
 Les données utilisées proviennent d’un dataset client (achetés, fréquence, montant…) que l’on analyse pour segmenter les clients selon leurs comportements d’achat.
 
-> 📌 Si le dataset n’est pas inclus ici, ajoute un lien vers la source (ex : Kaggle, UCI…) ou un fichier `data.csv`.
 
 ---
 
