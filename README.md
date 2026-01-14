@@ -1,12 +1,12 @@
 # Customer Segmentation Project
 
-## 🎯 Objectif du projet
+## Objectif du projet
 Ce projet vise à **segmenter les clients selon leur comportement d’achat** à l’aide de méthodes de clustering (ex : K-Means).  
 L’objectif est d’identifier des groupes de clients similaires afin d’aider une entreprise à mieux cibler ses campagnes marketing.
 
 ---
 
-## 🧠 Méthodologie
+## Méthodologie
 
 Le projet comprend les étapes suivantes :
 1. **Nettoyage et pré-traitement des données**
@@ -18,7 +18,7 @@ Le projet comprend les étapes suivantes :
 
 ---
 
-## 📂 Contenu du dépôt
+## Contenu du dépôt
 
 | Fichier | Description |
 |---------|-------------|
@@ -27,7 +27,7 @@ Le projet comprend les étapes suivantes :
 
 ---
 
-## 🧰 Outils & Bibliothèques
+## Outils & Bibliothèques
 
 Ce projet utilise les technologies suivantes :
 
@@ -39,7 +39,7 @@ Ce projet utilise les technologies suivantes :
 
 ---
 
-## 📊 Données
+## Données
 
 Les données utilisées proviennent d’un dataset client (achetés, fréquence, montant…) que l’on analyse pour segmenter les clients selon leurs comportements d’achat.
 
@@ -47,6 +47,6 @@ Les données utilisées proviennent d’un dataset client (achetés, fréquence,
 
 ---
 
-## 🏁 Instructions pour exécuter
+## Instructions pour exécuter
 
 1. Clone le dépôt :
